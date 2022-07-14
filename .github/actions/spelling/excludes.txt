@@ -1,1 +1,2 @@
 ^\.github/
+^\Q.secrets.baseline\E$
