@@ -1,2 +1,3 @@
 ^\.github/
 ^\Q.secrets.baseline\E$
+secret-scanner\/action@[a-f0-9]+
